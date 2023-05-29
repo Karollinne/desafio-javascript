@@ -1,0 +1,21 @@
+body {
+    font: 12pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button {
+    font-size: 12pt;
+    padding: 30px;
+}
+
+h1 {
+    margin: 5px 0 0 5px;
+}
+
+a {
+    text-decoration: none;
+    margin: 0 2.5rem 0 2.5rem;
+    font-weight: 800;
+    display: flex;
+    font-size: large;
+}
